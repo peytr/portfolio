@@ -14,69 +14,69 @@ I found the website of a creative agency called Blend which drove the inspiratio
 
 [http://www.blendingpoint.com/](http://www.blendingpoint.com/)
 
-![blend.com](/docs/readme-images/blend-1.png)
-![blend.com](/docs/readme-images/blend-2.png)
-![blend.com](/docs/readme-images/blend-3.png)
+![blend.com](/images/readme-images/blend-1.png)
+![blend.com](/images/readme-images/blend-2.png)
+![blend.com](/images/readme-images/blend-3.png)
 
 
 And also the portfolio website of hannah bourke, a student at coder academy from the previous intake.
 
 [https://www.hannahbourke.io/](https://www.hannahbourke.io/)
 
-![hannahbourke.io](/docs/readme-images/hannah-bourke-1.png)
-![hannahbourke.io](/docs/readme-images/hannah-bourke-2.png)
+![hannahbourke.io](/images/readme-images/hannah-bourke-1.png)
+![hannahbourke.io](/images/readme-images/hannah-bourke-2.png)
 
 ## Logo
 My name isn't an easy one to put into a logo, at least I found it a struggle. So I used my whole name. The font used is Montserrat.
 
 Initial Logo Designs
 
-![Initial logo designs](/docs/readme-images/logo.png)
+![Initial logo designs](/images/readme-images/logo.png)
 
 Final Logo Design
 
-![Final logo design](/docs/readme-images/peter-cavalot-logo.png)
+![Final logo design](/images/readme-images/peter-cavalot-logo.png)
 
 ## Colours and Fonts
 My initial designs began with images of city scapes and skylines portraying colors of style and sophistication, I also went with a grayscale image of calming waters for my main page.
 
-![Initial images](/docs/readme-images/initial-images.png)
+![Initial images](/images/readme-images/initial-images.png)
 
 I very quickly decided on Montserrat and Ubuntu as font choices. Both fonts are sans serif and very clean and modern. But I couldn't get comfortable with color choice which shows in my first design, colourless, even though the images I chose were full of colour. Perhaps that was the issue, too much colour to choose from.
 
 Font Choices - Montserrat and Ubuntu
 
-![Font Choices](/docs/readme-images/fonts-colors.png)
+![Font Choices](/images/readme-images/fonts-colors.png)
 
 Not entirely happy with the direction the design was heading.
 
-![Initial Design](/docs/readme-images/home.png)
-![Initial Design](/docs/readme-images/about-300.png)
+![Initial Design](/images/readme-images/home.png)
+![Initial Design](/images/readme-images/about-300.png)
 
 So back to the internet for some more inspiration.
 I eventually came across the website of web designer Matt Farley.
 
 [http://mattfarley.ca/](http://mattfarley.ca/)
 
-![mattfarley.ca](/docs/readme-images/mattfarley-1.png)
-![mattfarley.ca](/docs/readme-images/mattfarley-2.png)
-![mattfarley.ca](/docs/readme-images/mattfarley-3.png)
-![mattfarley.ca](/docs/readme-images/mattfarley-4.png)
+![mattfarley.ca](/images/readme-images/mattfarley-1.png)
+![mattfarley.ca](/images/readme-images/mattfarley-2.png)
+![mattfarley.ca](/images/readme-images/mattfarley-3.png)
+![mattfarley.ca](/images/readme-images/mattfarley-4.png)
 
 ## Taglines
 A little while back during the first few weeks of the bootcamp I came across the slogan and wallpapers "Workhard Work Anywhere"
 This immediatley resinated with me as I like to think that I always work hard at what I do plus I attribute the "work anywhere" with the world of web development and coding in general. It is a skill that enables you to literaly work anywhere, at least anywhere with a good internet connection.
 
-![Workhard Work Anywhere](/docs/readme-images/wha-sea.jpg)
+![Workhard Work Anywhere](/images/readme-images/wha-sea.jpg)
 
 ## Final Design
 Following the design and color scheme of Matt Farley's website. Loved his layout and especially his colours. So this is the design flavor I followed.
 
 As mentioned adding in the car to highlight my automotive career history.
  
-![Final Colour Choices](/docs/readme-images/final-colors.png)
-![Final design home page](/docs/readme-images/peter-cavalot-1.png)
-![Final design home page](/docs/readme-images/peter-cavalot-2.png)
+![Final Colour Choices](/images/readme-images/final-colors.png)
+![Final design home page](/images/readme-images/peter-cavalot-1.png)
+![Final design home page](/images/readme-images/peter-cavalot-2.png)
 
 
 ## Resources
