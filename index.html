@@ -53,22 +53,26 @@
     </quote>
     <contact id="contact-section" class="grid">
         <h1>Contact</h1>
-        <form class="contact-form" name="contact-form" action="/success.html" netlify>
-            <div>
-                <input type="text" id="name" name="user_name" placeholder="Name" required>
-            </div>
-            <div>
+        <form class="contact-form" name="contact" method="POST" data-netlify="true">
+            <p>
+                <label for="name"></label>
+                <input type="text" id="name" name="name" placeholder="Name" required>
+            </p>
+            <p>
+                <label for="email"></label>
                 <input type="email" id="email" name="email" placeholder="Email" required>
-            </div>
-            <div>
+            </p>
+            <p>
+                <label for="subject"></label>
                 <input type="text" id="subject" name="subject" placeholder="Subject">
-            </div>
-            <div>
+            </p>
+            <p>
+                <label for="msg"></label>
                 <textarea id="msg" name="message" placeholder="Message" required></textarea>
-            </div>
-            <div id="form-button">
+            </p>
+            <p id="form-button">
                 <button class="btn" type="submit">SEND</button>
-            </div>
+            </p>
         </form>
     </contact>
     <footer id="footer" class="grid">
