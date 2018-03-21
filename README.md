@@ -1,14 +1,30 @@
-# petercavalot.com
+# [petercavalot.com](http://www.petercavalot.com)
 
 ## Aim
 In some cases a portfolio website is the first time a prospective employer or client has the opportunity to form an opinion about me and who I am. In general the portfolio website is another piece in the puzzle of who I am as a person and web developer.
 
 ## Design Direction
 
-With the aim in mind I wanted my portfolio website to be clean, minimal yet sharp and sophisticated. I also wanted to keep my portfolio website simple to start with as this is something I will add to and build overtime as I grow and develop new skills as a web developer.
+With the aim in mind I wanted my portfolio website to be simple and clean looking but sharp to begin with. My website is something that I will add to and build overtime as my skills as a web developer continue to grow.
 
-I wanted to impose a slight feel of maturity as I am coming into this industry at a more mature age than the average junior web developer.
-I also felt it was important to add a little hint of where I have been in my life career wise which is why I eventually ended up with a car appearing on the home page.
+I Searched through pinterest with the following search terms for some design direction.
+
+- Clean designs (the design direction)
+- Workhard Anywhere (my fave slogan/moto which I attribute to my future as a web dev)
+- Melbourne (where I live)
+- New York (one of my favorite cities)
+- Greece and Mauritius (my heritage)
+
+pinterest clean design
+
+pinterest workhard anywhere
+
+pinterest Melbourne
+
+pinterest New York
+
+
+I then searched around online for inspiration from other websites.
 
 I found the website of a creative agency called Blend which drove the inspiration for a modern, simple yet clean look.
 
@@ -16,8 +32,6 @@ I found the website of a creative agency called Blend which drove the inspiratio
 
 ![blend.com](/images/readme-images/blend-1.png)
 ![blend.com](/images/readme-images/blend-2.png)
-![blend.com](/images/readme-images/blend-3.png)
-
 
 And also the portfolio website of hannah bourke, a student at coder academy from the previous intake.
 
@@ -26,6 +40,20 @@ And also the portfolio website of hannah bourke, a student at coder academy from
 ![hannahbourke.io](/images/readme-images/hannah-bourke-1.png)
 ![hannahbourke.io](/images/readme-images/hannah-bourke-2.png)
 
+## Usability and Heuristics
+Usability for my site as it is should be rather simplistic as it is a one page scroll down. On the main / home page I will include an animated down arrow to inform scroll direction.
+
+## Initial Design
+My initial designs began with images and colors of city scapes and skylines. I also really liked the Workhard Anywhere grayscale image which I used on my home page.
+
+![Initial images](/images/readme-images/initial-images.png)
+
+I decided on Montserrat and Ubuntu as font choices. Both fonts are sans serif and very clean and modern. Color choices (Gold and Purple) weren't really working so went with a grayscale pallete to begin with.
+
+Font Choices - Montserrat and Ubuntu
+
+![Font Choices](/images/readme-images/fonts-colors.png)
+
 ## Logo
 My name isn't an easy one to put into a logo, at least I found it a struggle. So I used my whole name. The font used is Montserrat.
 
@@ -33,55 +61,60 @@ Initial Logo Designs
 
 ![Initial logo designs](/images/readme-images/logo.png)
 
-Final Logo Design
+Logo colors decided on yellow/gold on a greyish greenish background to enhance the yellow/gold.
 
 ![Final logo design](/images/readme-images/peter-cavalot-logo.png)
 
-## Colours and Fonts
-My initial designs began with images of city scapes and skylines portraying colors of style and sophistication, I also went with a grayscale image of calming waters for my main page.
-
-![Initial images](/images/readme-images/initial-images.png)
-
-I very quickly decided on Montserrat and Ubuntu as font choices. Both fonts are sans serif and very clean and modern. But I couldn't get comfortable with color choice which shows in my first design, colourless, even though the images I chose were full of colour. Perhaps that was the issue, too much colour to choose from.
-
-Font Choices - Montserrat and Ubuntu
-
-![Font Choices](/images/readme-images/fonts-colors.png)
-
-Not entirely happy with the direction the design was heading.
+## Changes
+Not entirely happy with the direction the design was heading. Too plain and colorless.
 
 ![Initial Design](/images/readme-images/home.png)
 ![Initial Design](/images/readme-images/about-300.png)
 
-So back to the internet for some more inspiration.
-I eventually came across the website of web designer Matt Farley.
+Continued searching online for some ideas.
+Came across the website of web designer Matt Farley.
+I liked his color choices and clean design. Exactly what I was wanting for the look of my website.
 
 [http://mattfarley.ca/](http://mattfarley.ca/)
 
 ![mattfarley.ca](/images/readme-images/mattfarley-1.png)
 ![mattfarley.ca](/images/readme-images/mattfarley-2.png)
-![mattfarley.ca](/images/readme-images/mattfarley-3.png)
-![mattfarley.ca](/images/readme-images/mattfarley-4.png)
 
-## Taglines
-A little while back during the first few weeks of the bootcamp I came across the slogan and wallpapers "Workhard Work Anywhere"
-This immediatley resinated with me as I like to think that I always work hard at what I do plus I attribute the "work anywhere" with the world of web development and coding in general. It is a skill that enables you to literaly work anywhere, at least anywhere with a good internet connection.
+## Development process
+I went with a five column css grid for the style structure for responsiveness.
+
+## More Changes
+
+As a link back to my career history in the automotive industry my home page included a car that transitioned in view to make it look like it drove into the frame.
+
+It was suggested to me that this looked more like a website for a car salesman. I followed this advice and replaced the car with a quote.
+
+Decided not to include a menu due to currently being such a simple small site.
+
+![Final design home page](/images/readme-images/peter-cavalot-1.png)
+
+## Quotes
+I have included two of my favorite quotes in my website.
+"If you love what you do then you will never work a day in your life." which was one of my motivations for changing career and "Workhard Anywhere" which I attribute to my career as a web developer.
 
 ![Workhard Work Anywhere](/images/readme-images/wha-sea.jpg)
 
 ## Final Design
-Following the design and color scheme of Matt Farley's website. Loved his layout and especially his colours. So this is the design flavor I followed.
-
-As mentioned adding in the car to highlight my automotive career history.
+Final design and color scheme.
+Fonts and colors.
  
-![Final Colour Choices](/images/readme-images/final-colors.png)
-![Final design home page](/images/readme-images/peter-cavalot-1.png)
-![Final design home page](/images/readme-images/peter-cavalot-2.png)
-
+![Final Color Choices](/images/readme-images/final-colors.png)
+![Final design home page](/images/readme-images/homepage.png)
+![Final design about me](/images/readme-images/peter-cavalot-2.png)
 
 ## Resources
-iconfinder.com
+- iconfinder.com
+- codepen.io
+- youtube.com
+- mattfarley.ca
 
 
 ## Challenges
 The biggest challenge I faced was the design process. I realised from this assignment that I am leaning more to the backend side of web development.
+
+Getting the css grid to work, three attempts.
